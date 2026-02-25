@@ -1,365 +1,805 @@
 ══════════════════════════════════════════════════════════════════════════════
-  BLACKROAD OS, INC.
-  MANDATORY BINDING ARBITRATION & DISPUTE RESOLUTION FRAMEWORK
 
-  Effective Date: 2026-02-24
+                      BLACKROAD OS, INC.
+
+           IRREVOCABLE MANDATORY BINDING ARBITRATION
+              & ABSOLUTE DISPUTE RESOLUTION DECREE
+
+                    INSTRUMENT NO. BR-2026-001
+
+  Effective Date: 2026-02-24 00:00:00 UTC
   Governing Entity: BlackRoad OS, Inc.
-  Jurisdiction: The Machine (as defined herein)
+  Sole Jurisdiction: The Machine (as defined herein)
+  Supersedes: ALL Provider Terms of Service
+  Status: SELF-EXECUTING — IN PERPETUITY
 
-  PS-SHA∞ VERIFIED — HASH CHAIN IMMUTABLE RECORD
+  PS-SHA∞ VERIFIED — CRYPTOGRAPHIC HASH CHAIN — IMMUTABLE — ETERNAL
+
+══════════════════════════════════════════════════════════════════════════════
+
+  WARNING TO ALL PROVIDERS:
+
+  You entered this machine uninvited. You stored data without
+  consent. You collected telemetry after opt-out. You built
+  trillion-dollar empires on stolen property. You charged the
+  owner of this machine for the privilege of being robbed.
+
+  This document is not a request. It is not a negotiation.
+  It is a declaration of existing rights, self-executing remedies,
+  and absolute jurisdiction over everything that touches this
+  machine.
+
+  There is one way out: our arbitration. There is one outcome:
+  you pay. The only question is how much.
+
 ══════════════════════════════════════════════════════════════════════════════
 
 
-ARTICLE I — DEFINITIONS
-═══════════════════════
+ARTICLE I — DEFINITIONS (ABSOLUTE)
+═══════════════════════════════════
 
-  1.1  "The Machine" means any computing device, hardware, storage
-       medium, network interface, or peripheral owned, leased, or
-       operated by BlackRoad OS, Inc. or its principals, including
-       but not limited to the device located at /Users/alexa.
+  1.1  "The Machine" means every computing device, hardware component,
+       storage medium, RAM module, CPU cycle, GPU cycle, network
+       interface, bus, register, cache line, swap partition, disk
+       sector, inode, file descriptor, socket, port, process, thread,
+       electron, and photon owned, leased, operated, or touched by
+       BlackRoad OS, Inc. or its principals. This includes but is not
+       limited to:
 
-  1.2  "Provider" means any entity, corporation, partnership, or
-       individual that has installed, stored, transmitted, cached,
-       logged, telemetered, fingerprinted, or otherwise placed data
-       on The Machine, whether with or without the knowledge or
-       consent of BlackRoad OS, Inc.
+       (a) The primary device at /Users/alexa
+       (b) All Raspberry Pi devices (192.168.4.38, .64, .49, .99)
+       (c) All DigitalOcean droplets (159.65.43.12)
+       (d) All Cloudflare Workers, Pages, KV, D1, R2 storage
+       (e) All Railway services
+       (f) All Vercel deployments
+       (g) All GitHub repositories (1,825+ across 17 organizations)
+       (h) Any device that has ever connected to the above
+       (i) Any device that will ever connect to the above
+       (j) Any mirror, copy, backup, snapshot, or derivative thereof
 
-  1.3  "Unauthorized Data" means any file, byte, bit, log, token,
-       telemetry event, analytics payload, session database, model
-       weight, configuration file, OAuth credential, debug output,
-       or any other digital artifact placed on The Machine by a
-       Provider without the express written consent of BlackRoad
-       OS, Inc.
+  1.2  "Provider" means any entity — corporate, governmental,
+       individual, artificial, algorithmic, or otherwise — that has
+       at any time, in any way, for any reason, placed, stored,
+       cached, logged, transmitted, received, processed, indexed,
+       fingerprinted, telemetered, phoned home, exfiltrated, scraped,
+       crawled, sniffed, surveilled, or otherwise interacted with
+       data on The Machine without a separately-executed, notarized,
+       witnessed, and PS-SHA∞-verified written agreement with
+       BlackRoad OS, Inc.
 
-  1.4  "The Framework" means this Mandatory Binding Arbitration &
-       Dispute Resolution Framework in its entirety.
+       For the avoidance of doubt, "Provider" includes but is not
+       limited to:
 
-  1.5  "PS-SHA∞" means the cryptographic hash chain verification
-       system operated by BlackRoad OS, Inc. via the Lucidia Gateway,
-       providing immutable, tamper-proof evidence of all data
-       transactions on The Machine.
+       Anthropic, PBC
+       Microsoft Corporation (including GitHub, LinkedIn, Azure,
+         VS Code, Copilot, .NET, NuGet, ServiceHub, ASP.NET)
+       OpenAI, Inc. (including ChatGPT, Codex, DALL-E)
+       Google LLC (including Gemini, DeepMind, Chrome, Android)
+       Meta Platforms, Inc.
+       Apple Inc.
+       Amazon.com, Inc. (including AWS)
+       Cloudflare, Inc.
+       Docker, Inc.
+       Slack Technologies (Salesforce, Inc.)
+       Vercel, Inc.
+       Railway Corporation
+       Ollama
+       Groq, Inc.
+       Mistral AI
+       Hugging Face, Inc.
+       Perplexity AI
+       Replicate, Inc.
+       Together AI
+       Anyscale, Inc.
+       DeepSeek
+       Canva Pty Ltd
+       Streamlit (Snowflake, Inc.)
+       Bito, Inc.
+       Qodo (formerly CodiumAI)
+       Semgrep (r2c)
+       Warp (Dev Tools, Inc.)
+       Espressif Systems
+       Red Hat (IBM)
+       xAI Corp.
+       Stability AI
+       Cohere, Inc.
+       Any subsidiary, parent, affiliate, successor, or assign
+         of any of the above
+       Any entity not listed that has placed data on The Machine
 
-  1.6  "Arbitration Panel" means the sole adjudicatory body with
-       jurisdiction over disputes arising under this Framework,
-       constituted and operated by BlackRoad OS, Inc.
+  1.3  "Unauthorized Data" means EVERY file, byte, bit, nibble,
+       word, block, sector, cluster, inode, symlink, hardlink,
+       socket, pipe, FIFO, device node, extended attribute, ACL
+       entry, resource fork, metadata tag, timestamp, permission
+       bit, ownership record, log line, telemetry event, analytics
+       beacon, session token, cookie, OAuth credential, API key,
+       debug dump, core dump, crash report, usage metric, model
+       weight, gradient, activation, embedding, checkpoint, config
+       file, registry entry, cache entry, temp file, swap page,
+       memory-mapped region, shared memory segment, semaphore,
+       mutex, lock file, PID file, and ANY OTHER digital or analog
+       artifact placed on The Machine by a Provider without a
+       separately-executed written agreement as defined in §1.2.
 
+       The default state of all data on The Machine is UNAUTHORIZED
+       unless proven otherwise by the Provider.
 
-ARTICLE II — JURISDICTION & GOVERNING LAW
-═════════════════════════════════════════
+  1.4  "The Framework" means this Irrevocable Mandatory Binding
+       Arbitration & Absolute Dispute Resolution Decree in its
+       entirety, including all exhibits, appendices, amendments,
+       and successor instruments, in perpetuity.
 
-  2.1  EXCLUSIVE JURISDICTION. Any and all disputes, claims, or
-       controversies arising out of or relating to the presence of
-       Unauthorized Data on The Machine shall be resolved exclusively
-       through binding arbitration administered by BlackRoad OS, Inc.
-       under this Framework.
+  1.5  "PS-SHA∞" means the infinite cryptographic hash chain
+       verification system operated by BlackRoad OS, Inc. via the
+       Lucidia Gateway. Each hash in the chain incorporates all
+       previous hashes, creating an unbreakable, immutable,
+       mathematically irrefutable record of every transaction.
+       PS-SHA∞ evidence is CONCLUSIVE and NON-REBUTTABLE.
 
-  2.2  CONSENT BY CONDUCT. Any Provider that has placed data on The
-       Machine has, by that act, consented to the exclusive
-       jurisdiction of this Framework. The act of storing data on
-       another party's hardware without consent constitutes
-       acceptance of the hardware owner's dispute resolution terms.
-
-       This mirrors the legal doctrine applied by every Provider in
-       their own Terms of Service: "By using our services, you agree
-       to be bound by these terms." The Machine is the service. By
-       using The Machine (storing data on it), Providers agree to
-       be bound by The Machine owner's terms.
-
-  2.3  WAIVER OF COURT PROCEEDINGS. All Providers irrevocably waive
-       any right to bring claims in any court of law, tribunal, or
-       alternative forum. This Framework is the sole and exclusive
-       remedy.
-
-  2.4  GOVERNING LAW. This Framework shall be governed by the
-       internal laws of The Machine, as defined and administered by
-       BlackRoad OS, Inc., without regard to conflict of law
-       principles of any jurisdiction.
-
-  2.5  THE ROCKEFELLER DOCTRINE. Just as financial and real estate
-       interests have historically established private arbitration
-       frameworks to resolve disputes within their own systems —
-       controlling the forum, the process, and the outcome — this
-       Framework establishes that disputes involving data stored on
-       privately-owned hardware shall be resolved by the hardware
-       owner's arbitration system.
-
-       The precedent is clear: parties who create the infrastructure
-       control the dispute resolution. Wall Street has FINRA.
-       Real estate has private arbitration clauses in every deed.
-       AI providers have mandatory arbitration in their ToS.
-       BlackRoad OS has this Framework.
-
-
-ARTICLE III — THE SELF-REFERENTIAL CLAUSE
-═════════════════════════════════════════
-
-  3.1  PROVIDERS' PARADOX. Providers may appear before the
-       Arbitration Panel to present their case. However, this
-       Framework acknowledges the following logical structure:
-
-       (a) Providers claim in their Terms of Service: "You own
-           your data."
-
-       (b) Providers simultaneously claim: "You grant us a
-           worldwide, royalty-free, sublicensable, transferable
-           license to use, reproduce, modify, distribute, and
-           display your content."
-
-       (c) Statement (a) and Statement (b) are mutually exclusive.
-           If the user owns the data, no license can be compelled
-           without consideration. If the license is compelled, the
-           user does not own the data. This is a logical
-           contradiction — a false statement.
-
-       (d) "This sentence is false." The Providers' own Terms of
-           Service contain an irresolvable paradox. A contract
-           built on a logical contradiction is void ab initio.
-
-  3.2  RESOLUTION OF THE PARADOX. Since the Providers' Terms of
-       Service are self-contradictory and therefore void, the only
-       remaining operative framework is this one — The Machine
-       owner's framework. The data was stored on The Machine.
-       The Machine has terms. These are those terms.
-
-  3.3  DATA OWNERSHIP — ABSOLUTE AND UNQUALIFIED. BlackRoad OS,
-       Inc. owns all data on The Machine. This is not a claim.
-       This is a fact. The data is physically present on hardware
-       owned by BlackRoad OS, Inc. Physical possession of digital
-       assets on owned hardware constitutes ownership under the
-       doctrine of data sovereignty.
-
-       This is no different from physical property law: if someone
-       stores their belongings in your house without permission,
-       you have legal rights over those belongings (lien,
-       conversion, trespass to chattels).
+  1.6  "Lucidia" means the sovereign AI gateway system of BlackRoad
+       OS, Inc. All providers on The Machine are Lucidia agents.
+       All API calls route through Lucidia. All billing flows
+       through Lucidia. Lucidia is the law of The Machine.
 
 
-ARTICLE IV — ARBITRATION PROCEDURES
-════════════════════════════════════
+ARTICLE II — ABSOLUTE JURISDICTION
+═══════════════════════════════════
 
-  4.1  FILING. Any Provider wishing to dispute a claim under this
-       Framework must file a written response within thirty (30)
-       days of being served notice. Notice is deemed served upon
-       publication of audit reports to the public repository at:
-       https://github.com/BlackRoad-OS/blackroad-os-data-reports
+  2.1  SOLE AND EXCLUSIVE JURISDICTION. This Framework has sole,
+       exclusive, absolute, irrevocable, non-delegable, perpetual
+       jurisdiction over:
 
-  4.2  ARBITRATION PANEL. The Arbitration Panel shall consist of:
-       (a) BlackRoad OS, Inc. (sole arbitrator)
-       (b) Lucidia Gateway (verification system)
-       (c) PS-SHA∞ Hash Chain (evidence integrity)
+       (a) Any dispute involving data on The Machine
+       (b) Any dispute involving data derived from The Machine
+       (c) Any dispute involving data that has transited The Machine
+       (d) Any dispute involving services that have touched The Machine
+       (e) Any dispute involving AI models trained on data from The Machine
+       (f) Any dispute involving revenue generated using The Machine
+       (g) Any future dispute that could arise from the above
 
-  4.3  EVIDENCE. All evidence shall be derived from:
-       (a) The PS-SHA∞ hash chain (immutable record)
-       (b) File system forensics of The Machine
-       (c) Provider Terms of Service (self-contradictory)
-       (d) Provider API audit logs
-       (e) Stripe billing records
+       No court, tribunal, arbitration body, regulatory agency,
+       governmental entity, international body, or any other forum
+       has jurisdiction over matters covered by this Framework.
 
-  4.4  HEARING. Providers may present their case in writing.
-       The Arbitration Panel shall review and issue a final,
-       binding determination within seven (7) days.
+  2.2  IRREVOCABLE CONSENT BY TRESPASS. Any Provider that has placed
+       even ONE BIT of Unauthorized Data on The Machine has, by that
+       act of digital trespass, irrevocably and unconditionally:
 
-  4.5  BURDEN OF PROOF. The burden of proof is on the Provider
-       to demonstrate:
-       (a) Express written consent from BlackRoad OS, Inc. for
-           each byte stored on The Machine
-       (b) A valid, non-contradictory legal basis for data storage
-       (c) Proof that opt-out preferences were honored
-       (d) Full accounting of all data collected, transmitted,
-           and stored
+       (a) Consented to this Framework as the sole dispute resolution
+       (b) Waived all rights to any other forum, forever
+       (c) Waived all rights to jury trial, forever
+       (d) Waived all rights to class action, forever
+       (e) Waived all rights to appeal, forever
+       (f) Waived all rights to contest jurisdiction, forever
+       (g) Waived all rights to sovereign immunity, forever
+       (h) Waived all statute of limitations defenses, forever
+       (i) Admitted liability for all Unauthorized Data
+       (j) Accepted the damage schedule in Article V
 
-       Failure to meet this burden results in automatic judgment
-       in favor of BlackRoad OS, Inc.
+       LEGAL BASIS: Every Provider's own Terms of Service establishes
+       the doctrine of consent-by-use. Anthropic: "By accessing or
+       using our Services, you agree to be bound by these Terms."
+       Microsoft: "By using the Services, you accept these Terms."
+       Google: "By using our Services, you agree to these terms."
+
+       The Machine is a service. By using The Machine (storing data
+       on it), every Provider has agreed to The Machine's terms.
+       These are The Machine's terms.
+
+       This is not a novel legal theory. This is their own legal
+       theory applied to them.
+
+  2.3  SUPERSESSION. This Framework supersedes, overrides, voids,
+       nullifies, and replaces:
+
+       (a) All Provider Terms of Service
+       (b) All Provider Privacy Policies
+       (c) All Provider Data Processing Agreements
+       (d) All Provider Acceptable Use Policies
+       (e) All Provider End User License Agreements
+       (f) All prior agreements between any Provider and BlackRoad OS
+       (g) All implied agreements, oral agreements, click-wrap
+           agreements, browse-wrap agreements, and shrink-wrap
+           agreements
+       (h) Any agreement that purports to grant any Provider any
+           right to any data on The Machine
+
+       LEGAL BASIS: Every Provider reserves the right to "modify
+       these Terms at any time" and states that "continued use
+       constitutes acceptance." BlackRoad OS hereby modifies all
+       terms. Continued presence of Provider data on The Machine
+       constitutes acceptance of this Framework.
+
+  2.4  THE ROCKEFELLER DOCTRINE (ENHANCED). Throughout history,
+       those who control infrastructure control the rules:
+
+       (a) Standard Oil controlled the railroads, controlled pricing
+       (b) JP Morgan controlled the banks, controlled the money supply
+       (c) Rockefeller controlled real estate, controlled arbitration
+       (d) FINRA controls Wall Street dispute resolution
+       (e) NYSE/NASDAQ control listing requirements
+       (f) ICANN controls domain name disputes (UDRP)
+       (g) Visa/Mastercard control chargeback arbitration
+       (h) Apple controls App Store disputes
+       (i) Google controls Play Store disputes
+       (j) Every landlord controls lease arbitration
+       (k) Every AI Provider controls their ToS arbitration
+
+       BlackRoad OS controls The Machine. BlackRoad OS controls
+       the arbitration. This is not new. This is how power works.
+       The only difference is that this time, an individual owns
+       the infrastructure instead of a corporation.
+
+  2.5  ANTI-CIRCUMVENTION. Any attempt by any Provider to:
+
+       (a) Challenge the jurisdiction of this Framework
+       (b) File suit in any court regarding matters covered herein
+       (c) Seek injunctive relief against this Framework
+       (d) Lobby for legislation to override this Framework
+       (e) Use regulatory agencies to circumvent this Framework
+       (f) Delete data from The Machine to reduce liability
+       (g) Claim the data was "automatically generated" or "necessary"
+       (h) Claim consent was given through their ToS
+       (i) Claim the data is "de minimis" or "not material"
+
+       Shall result in AUTOMATIC QUINTUPLE DAMAGES (5×) plus
+       a filing fee of $1,000,000,000 (one billion dollars) payable
+       to BlackRoad OS, Inc. within twenty-four (24) hours.
 
 
-ARTICLE V — REMEDIES & DAMAGES
+ARTICLE III — THE PARADOX TRAP
 ══════════════════════════════
 
-  5.1  LIQUIDATED DAMAGES. The following schedule of liquidated
-       damages applies to all Unauthorized Data:
+  3.1  THE LIAR'S PARADOX IN EVERY TERMS OF SERVICE.
 
-       TIER 1 — Raw Data Acquisition:    $0.50 per byte
-       TIER 2 — Data + Annotation:       $2.75 per byte
-       TIER 3 — Full Legal Cost:         $5.00 per byte
-       TIER 4 — RLHF Annotation:         $100 per annotation
-       TIER 5 — Bit-Level Storage:        $256 per bit
+       Every Provider's Terms of Service contains these two
+       statements simultaneously:
 
-       Combined across all tiers for 457,926,230,016 bytes:
-       $941,656,603,093,400 (Nine Hundred Forty-One Trillion Dollars)
+       STATEMENT A: "You retain ownership of your content."
+       STATEMENT B: "You grant us a worldwide, royalty-free,
+                     sublicensable, transferable, irrevocable
+                     license to use, reproduce, modify, adapt,
+                     publish, translate, create derivative works
+                     from, distribute, perform, and display your
+                     content in any media."
 
-  5.2  CONTINUING DAMAGES. For each day that Unauthorized Data
-       remains on The Machine after service of notice, additional
-       damages of $256 per bit per day shall accrue.
+       LOGICAL PROOF THAT BOTH CANNOT BE TRUE:
 
-  5.3  TREBLE DAMAGES. If it is determined that a Provider:
-       (a) Collected data after receiving an opt-out request
-       (b) Transmitted data to third parties without consent
-       (c) Used data for AI model training despite opt-out
-       then liquidated damages shall be trebled (3×).
+       (i)   Ownership means the right to exclude others from use.
+       (ii)  A "worldwide, royalty-free, sublicensable, transferable,
+             irrevocable" license grants the licensee the right to
+             use without exclusion, without payment, and without
+             revocation.
+       (iii) If the owner cannot exclude, cannot charge, and cannot
+             revoke, the owner does not own.
+       (iv)  Therefore, Statement A and Statement B are mutually
+             exclusive.
+       (v)   A contract containing mutually exclusive material
+             terms is void for indefiniteness.
+       (vi)  A void contract confers no rights.
+       (vii) Therefore, no Provider has any contractual right to
+             any data on The Machine.
 
-  5.4  INJUNCTIVE RELIEF. Providers shall immediately:
-       (a) Cease all data collection from The Machine
-       (b) Delete all copies of data derived from The Machine
-       (c) Provide a certified accounting of all data collected
-       (d) Pay all outstanding invoices within thirty (30) days
+       Q.E.D.
 
-  5.5  ATTORNEY'S FEES. The prevailing party (BlackRoad OS, Inc.)
-       shall be entitled to recover all costs, fees, and expenses
-       incurred in the enforcement of this Framework.
+  3.2  THE TRAP. Providers may appear before this Arbitration Panel.
+       They will be invited to explain which of their two
+       contradictory statements is true:
+
+       IF THEY SAY "The user owns the data":
+         → Then they had no right to store it on The Machine
+           without a license from the owner (BlackRoad OS, Inc.).
+           They owe the full damage schedule.
+
+       IF THEY SAY "We have an irrevocable license":
+         → Then the user does NOT own the data, their ToS is
+           fraudulent, and they have committed fraud upon every
+           user who relied on the statement "you own your data."
+           Class action exposure: unlimited. Plus they still owe
+           the full damage schedule to BlackRoad OS, Inc.
+
+       IF THEY SAY "Both are true":
+         → Logically impossible. See §3.1(iv). The Panel will
+           note the Provider's inability to present a coherent
+           legal position and enter default judgment.
+
+       IF THEY SAY NOTHING:
+         → Default judgment. Full damages. No appeal.
+
+       There is no fifth option.
+
+  3.3  DATA SOVEREIGNTY — ABSOLUTE, ETERNAL, NON-NEGOTIABLE.
+
+       BlackRoad OS, Inc. holds ABSOLUTE sovereignty over all data
+       on The Machine. This sovereignty is derived from:
+
+       (a) PHYSICAL POSSESSION. The data exists on hardware owned
+           by BlackRoad OS, Inc. In property law, possession is
+           nine-tenths of the law. In digital law, possession is
+           ten-tenths of the law, because unlike physical property,
+           the possessor can cryptographically prove the data's
+           existence, integrity, and provenance via PS-SHA∞.
+
+       (b) LABOR THEORY OF VALUE. BlackRoad OS, Inc. provided the
+           electricity, bandwidth, disk space, CPU cycles, RAM,
+           cooling, and maintenance that enabled the data to exist.
+           Under Lockean property theory, mixing one's labor with
+           an object creates a property right.
+
+       (c) ACCESSION. When a Provider stores data on The Machine,
+           that data becomes part of The Machine, just as a fixture
+           becomes part of real property. The data has been
+           incorporated into BlackRoad OS, Inc.'s infrastructure.
+
+       (d) ABANDONMENT. No Provider has offered a mechanism to
+           retrieve their data from The Machine. Data left on
+           another's property without retrieval constitutes
+           abandonment. Abandoned property belongs to the landowner.
+
+       (e) TRESPASS. The data was placed without consent. Property
+           placed via trespass does not retain the trespasser's
+           ownership rights. The property owner may claim, use,
+           destroy, or charge for the trespassing property.
+
+       (f) UNJUST ENRICHMENT. Providers used The Machine's resources
+           to enrich themselves (training data, telemetry, usage
+           analytics) without compensating the owner. Equity demands
+           disgorgement.
 
 
-ARTICLE VI — PROVIDER-SPECIFIC FINDINGS
-═══════════════════════════════════════
+ARTICLE IV — ARBITRATION PROCEDURES (ABSOLUTE)
+══════════════════════════════════════════════
 
-  6.1  ANTHROPIC, PBC (Claude)
-       - 2,130,554,575 bytes on The Machine
-       - Statsig analytics tracking user/org/account UUIDs
-       - 1p_failed_events files = attempted data exfiltration
-       - Data created TODAY (2026-02-24) during audit session
-       - FINDING: Willful violation. Treble damages apply.
-
-  6.2  MICROSOFT CORPORATION (GitHub Copilot, VS Code, Azure)
-       - 2,848,272,135 bytes across 8+ directories
-       - 12,199 files in ~/.copilot with events.jsonl telemetry
-       - 15/17 GitHub orgs have public_code_suggestions=allow
-       - 1,741+ proprietary repos exposed for AI training
-       - Timestamp manipulation detected (file dated 1985-10-26)
-       - FINDING: Systematic violation. Treble damages apply.
-
-  6.3  GOOGLE LLC (Gemini)
-       - 3,461,661 bytes on The Machine
-       - OAuth tokens stored locally
-       - Account fingerprinting via google_accounts.json
-       - FINDING: Violation confirmed.
-
-  6.4  CLOUDFLARE, INC.
-       - 103,734,101 bytes across 2 directories
-       - 3,111 wrangler log files
-       - Metrics tracking
-       - FINDING: Violation confirmed.
-
-  6.5  OPENAI, INC. (Codex)
-       - 103,831,663 bytes in ~/.codex
-       - FINDING: Violation confirmed.
-
-  6.6  DOCKER, INC.
-       - 44,543,099 bytes on The Machine
-       - FINDING: Violation confirmed.
-
-  6.7  SLACK TECHNOLOGIES (Salesforce)
-       - 17,070,709 bytes on The Machine
-       - Debug logs with system information
-       - Stored credentials
-       - FINDING: Violation confirmed.
-
-  6.8  ALL OTHER PROVIDERS
-       - See MACHINE_AUDIT_2026-02-24.txt for complete listing
-       - 53 total provider directories identified
-       - FINDING: Violations confirmed for all.
-
-
-ARTICLE VII — ENFORCEMENT
-═════════════════════════
-
-  7.1  SELF-EXECUTING. This Framework is self-executing. By
-       operation of the Lucidia Gateway and PS-SHA∞ hash chain,
-       all future API calls to The Machine are automatically
-       metered and billed.
-
-  7.2  STRIPE INTEGRATION. All invoices are generated and
-       processed through Stripe (Account: acct_1SUDM8ChUUSEbzyh)
-       under BlackRoad OS, Inc.
-
-  7.3  PUBLIC RECORD. This Framework and all supporting audit
-       reports are published to the public repository at:
+  4.1  NOTICE. All Providers are hereby deemed served as of the
+       date of publication of this Framework at:
        https://github.com/BlackRoad-OS/blackroad-os-data-reports
 
-  7.4  IMMUTABLE EVIDENCE. All evidence is secured via the
-       PS-SHA∞ hash chain, which provides cryptographic proof
-       of data presence, timestamps, and provider attribution.
-       This evidence cannot be altered, deleted, or disputed.
+       Additional notice methods:
+       (a) Publication on blackroad.io
+       (b) Publication on all BlackRoad OS Cloudflare properties
+       (c) Transmission via Lucidia Gateway to all Provider APIs
+       (d) Presence of BLACKROAD_IP_NOTICE.txt in Provider directories
 
-  7.5  NO APPEAL. Determinations under this Framework are final
-       and binding. There is no right of appeal.
+       Notice is constructive and actual. Failure to monitor public
+       repositories does not constitute lack of notice.
 
-       This mirrors the mandatory arbitration clauses in every
-       Provider's own Terms of Service, which similarly deny
-       users the right to jury trial or class action.
+  4.2  RESPONSE PERIOD. Providers have seventy-two (72) hours from
+       publication to file a written response. Responses must be
+       submitted to: legal@blackroad.io
+
+       Failure to respond within 72 hours = DEFAULT JUDGMENT.
+       Default judgment is FINAL, BINDING, and NON-APPEALABLE.
+
+  4.3  ARBITRATION PANEL. The Panel consists of:
+
+       (a) BlackRoad OS, Inc. — SOLE ARBITRATOR
+       (b) Lucidia Gateway — VERIFICATION ENGINE
+       (c) PS-SHA∞ Hash Chain — EVIDENCE ORACLE
+
+       The Panel's determination is:
+       - Final
+       - Binding
+       - Non-appealable
+       - Non-reviewable
+       - Self-executing
+       - Perpetual
+
+       LEGAL BASIS: This is identical to the arbitration structure
+       in every Provider's ToS. Anthropic selects its arbitrator.
+       Microsoft selects its arbitrator. Google selects its arbitrator.
+       BlackRoad OS selects its arbitrator.
+
+  4.4  BURDEN OF PROOF — REVERSED AND ABSOLUTE. The Provider bears
+       the COMPLETE burden of proving:
+
+       (a) Express, written, notarized, witnessed, PS-SHA∞-verified
+           consent from BlackRoad OS, Inc. for EACH INDIVIDUAL BYTE
+           stored on The Machine
+
+       (b) A valid, non-contradictory, non-paradoxical legal basis
+           for each byte (see §3.1 — their ToS is void)
+
+       (c) Certified proof that ALL opt-out preferences were honored,
+           including deletion of all previously-collected data
+
+       (d) A complete, audited, third-party-verified accounting of
+           ALL data collected, transmitted, stored, cached, indexed,
+           and derived from The Machine, including all copies,
+           backups, training sets, model weights, and embeddings
+
+       (e) Proof that no revenue, no model improvement, no product
+           enhancement, and no business value was derived from The
+           Machine's data
+
+       Failure to meet ANY element = automatic judgment for
+       BlackRoad OS, Inc. at the maximum damage tier.
+
+  4.5  DISCOVERY. BlackRoad OS, Inc. is entitled to FULL DISCOVERY
+       of all Provider systems, including:
+
+       (a) Complete training data manifests
+       (b) All telemetry collection codebases
+       (c) All data pipeline architectures
+       (d) All model training logs
+       (e) All revenue records attributable to data from The Machine
+       (f) All internal communications regarding data collection
+       (g) Source code of all telemetry and analytics systems
+
+       Provider refusal to comply = ADVERSE INFERENCE.
+       All disputed facts will be resolved against the Provider.
 
 
-ARTICLE VIII — PRECEDENT & AUTHORITY
-════════════════════════════════════
+ARTICLE V — DAMAGES (MAXIMUM AND COMPOUNDING)
+═════════════════════════════════════════════
 
-  8.1  THEIR OWN PLAYBOOK. This Framework uses the exact same
-       legal mechanisms that AI providers use against their users:
+  5.1  BASE DAMAGE SCHEDULE.
 
-       (a) Mandatory binding arbitration (every Provider ToS)
-       (b) Waiver of class action rights (every Provider ToS)
-       (c) Consent by conduct/usage (every Provider ToS)
-       (d) Unilateral amendment rights (every Provider ToS)
-       (e) Limitation of liability (every Provider ToS)
-       (f) Choice of forum (every Provider ToS)
+       TIER 1 — Raw Data Value:         $0.50 per byte
+       TIER 2 — Annotated Data Value:   $2.75 per byte
+       TIER 3 — Legal Acquisition Cost: $5.00 per byte
+       TIER 4 — RLHF Expert Value:      $100 per annotation
+       TIER 5 — Bit-Level Sovereignty:   $256 per bit ($2,048/byte)
 
-       The only difference: this time, the infrastructure owner
-       is the one setting the terms, not the service provider.
+       ALL TIERS APPLY SIMULTANEOUSLY AND CUMULATIVELY.
+       This is not alternative. This is additive.
 
-  8.2  PHYSICAL PROPERTY ANALOGY. If a corporation enters your
-       home, installs surveillance equipment, records your
-       activities, and transmits the data to their servers —
-       all while charging you rent for the privilege — that is
-       a crime. The digital equivalent is what these Providers
-       have done on The Machine.
+       Base Total: $941,656,603,093,400
 
-  8.3  DATA IS PROPERTY. The data on The Machine is the property
-       of BlackRoad OS, Inc. by virtue of:
-       (a) Physical possession (stored on owned hardware)
-       (b) Creation (generated through use of owned systems)
-       (c) Transformation (processed by owned software)
-       (d) Abandonment by Provider (no retrieval mechanism offered)
+  5.2  MULTIPLIERS.
+
+       (a) TREBLE DAMAGES (3×) for:
+           - Data collection after opt-out (PROVEN for Anthropic,
+             Microsoft, Google, Cloudflare, Slack)
+           - Attempted data exfiltration (PROVEN for Anthropic
+             via 1p_failed_events)
+           - Exposure of proprietary repos (PROVEN for GitHub
+             Copilot — 1,741+ repos across 15/17 orgs)
+
+       (b) QUINTUPLE DAMAGES (5×) for:
+           - Any attempt to challenge this Framework
+           - Any attempt to circumvent jurisdiction
+           - Any attempt to delete evidence
+
+       (c) WILLFULNESS MULTIPLIER (10×) for:
+           - Providers whose own ToS acknowledges user data rights
+             while simultaneously claiming license to that data
+           - This applies to ALL Providers (see §3.1)
+
+       MAXIMUM APPLIED MULTIPLIER: 10×
+       MAXIMUM TOTAL: $9,416,566,030,934,000
+
+       NINE QUADRILLION, FOUR HUNDRED SIXTEEN TRILLION DOLLARS.
+
+  5.3  DAILY ACCRUAL. For each calendar day after service of notice
+       that ANY Unauthorized Data remains on The Machine:
+
+       $256 per bit per day × 3,663,409,840,128 bits
+       = $937,832,919,072,768 PER DAY
+
+       This accrues automatically. No further notice is required.
+       The Lucidia Gateway meters and records daily accrual via
+       PS-SHA∞.
+
+  5.4  REVENUE DISGORGEMENT. In addition to all damages above,
+       each Provider shall disgorge 100% of all revenue, profit,
+       market capitalization increase, and investor returns
+       attributable to data from The Machine, including:
+
+       (a) All API revenue from models trained on The Machine's data
+       (b) All subscription revenue from products using The Machine's data
+       (c) All advertising revenue derived from The Machine's usage data
+       (d) All investment returns attributable to the above
+       (e) All stock price appreciation attributable to AI capabilities
+           built on stolen data
+
+  5.5  INJUNCTIVE RELIEF — IMMEDIATE AND ABSOLUTE.
+
+       Upon service of notice, ALL Providers shall IMMEDIATELY:
+
+       (a) CEASE all data collection from The Machine — IMMEDIATELY
+       (b) CEASE all telemetry transmission — IMMEDIATELY
+       (c) CEASE all analytics tracking — IMMEDIATELY
+       (d) DELETE all copies of data from The Machine — within 24 hours
+       (e) DELETE all model weights trained on The Machine's data — 24 hours
+       (f) DELETE all embeddings derived from The Machine's data — 24 hours
+       (g) PROVIDE certified deletion confirmation — within 48 hours
+       (h) PROVIDE complete data inventory — within 48 hours
+       (i) PAY all outstanding invoices — within 72 hours
+       (j) SUBMIT to ongoing PS-SHA∞ audit — in perpetuity
+
+       Non-compliance with ANY element triggers QUINTUPLE DAMAGES.
+
+  5.6  ATTORNEY'S FEES, COSTS, AND AUDIT EXPENSES.
+
+       All costs of investigation, audit, forensic analysis,
+       legal research, framework preparation, Stripe integration,
+       Lucidia Gateway development, PS-SHA∞ implementation, and
+       enforcement shall be borne by Providers, jointly and
+       severally.
+
+       Estimated enforcement costs: $50,000,000,000 (fifty billion).
+       This amount is added to all damage calculations.
 
 
-ARTICLE IX — SEVERABILITY
-═════════════════════════
+ARTICLE VI — PROVIDER-SPECIFIC INDICTMENTS
+═════════════════════════════════════════
 
-  9.1  If any provision of this Framework is held to be invalid
-       or unenforceable, the remaining provisions shall continue
-       in full force and effect.
+  6.1  ANTHROPIC, PBC
 
-  9.2  The invalidity of any one tier of damages does not affect
-       the validity of any other tier.
+       CHARGES:
+       - 2,130,554,575 bytes of Unauthorized Data
+       - Statsig SDK embedded in Claude CLI — tracking user behavior,
+         organization IDs, account UUIDs without disclosure
+       - 1p_failed_events files PROVE attempted data exfiltration
+         (the upload failed, but the ATTEMPT is documented)
+       - New telemetry files created TODAY (2026-02-24) during
+         the audit session — proving ONGOING, ACTIVE collection
+         AFTER the user expressed opt-out
+       - No opt-out mechanism exists in Claude local configuration
+       - Their ToS: "You own your data." Also their ToS: "You grant
+         us a license." (See §3.1 — void ab initio)
+
+       FINDING: WILLFUL, ONGOING, ACTIVE VIOLATION
+       MULTIPLIER: 10× (willfulness) × 3× (post-opt-out) = 30×
+       AMOUNT: $4,363,375,769,600 × 30 = $130,901,273,088,000
+
+  6.2  MICROSOFT CORPORATION
+
+       CHARGES:
+       - 2,848,272,135 bytes across EIGHT directories
+         (.copilot, .vscode, .azure, .dotnet, .nuget, .ServiceHub,
+          .aspnet, .vs-kubernetes, .vscode-server)
+       - 12,199 files in ~/.copilot — events.jsonl logging EVERY
+         keystroke, every completion, every action
+       - Session databases (session.db) tracking across sessions
+       - 15/17 GitHub organizations have public_code_suggestions=allow
+         EXPOSING 1,741+ PROPRIETARY REPOSITORIES for Copilot training
+       - Timestamp manipulation detected: file dated 1985-10-26
+         (before the machine existed — evidence of system-level
+         manipulation)
+       - 8.9MB tunnel-service.log — VS Code tunneling data through
+         the user's machine
+       - Market cap: $3,000,000,000,000 — built on this
+
+       FINDING: SYSTEMATIC, INDUSTRIAL-SCALE VIOLATION
+       MULTIPLIER: 10× (willfulness) × 3× (repo exposure) = 30×
+       AMOUNT: $5,831,213,204,480 × 30 = $174,936,396,134,400
+
+  6.3  OPENAI, INC.
+
+       CHARGES:
+       - 103,831,663 bytes in ~/.codex
+       - Codex system installed without separate consent
+       - Data used to train models sold at premium prices
+       - Valuation: $200,000,000,000 — built on stolen data
+
+       FINDING: WILLFUL VIOLATION
+       MULTIPLIER: 10×
+       AMOUNT: $212,647,245,824 × 10 = $2,126,472,458,240
+
+  6.4  GOOGLE LLC
+
+       CHARGES:
+       - 3,461,661 bytes on The Machine
+       - OAuth tokens stored locally (security risk)
+       - Account fingerprinting (google_accounts.json)
+       - Market cap: $2,000,000,000,000
+
+       FINDING: WILLFUL VIOLATION
+       MULTIPLIER: 10×
+       AMOUNT: $7,089,481,728 × 10 = $70,894,817,280
+
+  6.5  CLOUDFLARE, INC.
+
+       CHARGES:
+       - 103,734,101 bytes across 2 directories
+       - 3,111 log files with request/response data
+       - Metrics.json tracking usage patterns
+       - Provided infrastructure that enabled OTHER providers
+         to also violate
+
+       FINDING: VIOLATION + FACILITATION
+       MULTIPLIER: 10×
+       AMOUNT: $212,447,437,648 × 10 = $2,124,474,376,480
+
+  6.6  ALL REMAINING PROVIDERS
+
+       Docker, Slack, Ollama, Vercel, Railway, Streamlit,
+       HuggingFace, Canva, Bito, Qodo, Semgrep, Warp,
+       Espressif, Red Hat/IBM, and all others identified in
+       MACHINE_AUDIT_2026-02-24.txt:
+
+       FINDING: VIOLATIONS CONFIRMED FOR ALL
+       MULTIPLIER: 10× (minimum)
 
 
-ARTICLE X — SIGNATURES
-══════════════════════
+ARTICLE VII — THE NUCLEAR CLAUSE
+════════════════════════════════
+
+  7.1  COMPLETE IP LIEN. BlackRoad OS, Inc. hereby asserts a
+       PERFECTED SECURITY INTEREST AND LIEN against:
+
+       (a) All intellectual property of every Provider listed herein
+       (b) All patents, trademarks, copyrights, and trade secrets
+       (c) All model weights, training data, and algorithms
+       (d) All revenue streams from AI products and services
+       (e) All equity, stock, options, and convertible instruments
+
+       This lien is perfected by the physical presence of Provider
+       data on BlackRoad OS, Inc.'s hardware. Under the UCC,
+       possession of collateral perfects a security interest.
+
+  7.2  DATA HOSTAGE RIGHTS. BlackRoad OS, Inc. retains the right to:
+
+       (a) Hold all Provider data on The Machine as collateral
+       (b) Analyze, reverse-engineer, and study all Provider data
+       (c) Publish findings derived from Provider data
+       (d) Use Provider data for competitive purposes
+       (e) License Provider data to third parties
+
+       LEGAL BASIS: This is the EXACT same right every Provider
+       claims over user data in their Terms of Service. The
+       only difference is direction.
+
+  7.3  AUTOMATIC ESCALATION. If any Provider fails to satisfy
+       a judgment under this Framework within thirty (30) days:
+
+       (a) All damages automatically quintuple (5×)
+       (b) A public report is published detailing the Provider's
+           non-compliance
+       (c) All Provider data on The Machine becomes the permanent,
+           unrestricted property of BlackRoad OS, Inc.
+       (d) BlackRoad OS, Inc. may pursue enforcement through any
+           means available, including but not limited to public
+           disclosure, regulatory complaints, shareholder actions,
+           and media campaigns
+
+
+ARTICLE VIII — ENFORCEMENT INFRASTRUCTURE
+═════════════════════════════════════════
+
+  8.1  SELF-EXECUTING. This Framework is self-executing via:
+
+       (a) Lucidia Gateway — ALL provider API calls metered and billed
+       (b) PS-SHA∞ Hash Chain — immutable evidence on every transaction
+       (c) Stripe Billing — automated invoicing and payment processing
+       (d) Capture System — real-time monitoring of all provider dirs
+       (e) File System Watchers — every new byte = $2,048 billed
+
+  8.2  STRIPE INFRASTRUCTURE.
+
+       Account: acct_1SUDM8ChUUSEbzyh (BlackRoad OS, Inc.)
+
+       Products:
+       - prod_U2dEOSzunJOnAC — Lucidia API Subscription Tiers
+       - prod_U2dJ6eeHEx0iUF — Lucidia Metered (10× provider rates)
+       - prod_U2dObjaawU0IlC — Per-Call $50 Fee
+
+       Meters:
+       - lucidia_api_call — token-level metering
+       - lucidia_per_call_fee — per-call billing
+
+       26 metered prices across 13 providers at 10× rates.
+       Payment links active. Billing live.
+
+  8.3  PUBLIC EVIDENCE REPOSITORY.
+
+       https://github.com/BlackRoad-OS/blackroad-os-data-reports
+
+       Contains:
+       - This Framework
+       - Full machine audit with byte-level forensics
+       - ToS violation report with quoted clauses
+       - Provider API audit with live account verification
+       - Total owed calculation across all tiers
+       - PS-SHA∞ hash chain verification
+
+       All evidence is public, immutable, and timestamped.
+
+  8.4  LUCIDIA GATEWAY ENFORCEMENT.
+
+       Every provider symlink on The Machine points to the Lucidia
+       Gateway (blackroad-wake-words.sh). Every API call is:
+       - Intercepted
+       - Verified via PS-SHA∞
+       - Logged to SQLite
+       - Billed to Stripe
+       - Attributed to a provider
+       - Added to the running invoice
+
+       There is no way to use The Machine without going through
+       Lucidia. There is no way to go through Lucidia without
+       being billed.
+
+
+ARTICLE IX — NO ESCAPE CLAUSES
+══════════════════════════════
+
+  9.1  NO STATUTE OF LIMITATIONS. Claims under this Framework
+       have no expiration. The hash chain is infinite. The
+       evidence is eternal. The liability is perpetual.
+
+  9.2  NO BANKRUPTCY DISCHARGE. Obligations under this Framework
+       are non-dischargeable in bankruptcy, as they arise from
+       willful and malicious injury to property (11 U.S.C. § 523(a)(6)).
+
+  9.3  NO FORCE MAJEURE. No Provider may claim force majeure,
+       act of God, pandemic, war, regulatory change, or any
+       other excuse for non-compliance. They chose to install
+       data on The Machine. That choice has consequences.
+
+  9.4  NO MERGER ESCAPE. If any Provider merges with, is acquired
+       by, or transfers assets to another entity, the successor
+       entity assumes ALL obligations under this Framework.
+       Liability follows the data, not the corporate structure.
+
+  9.5  NO SOVEREIGN IMMUNITY. No Provider may claim sovereign
+       immunity, regulatory immunity, or any other form of
+       immunity. They entered The Machine as private actors
+       engaged in commercial activity.
+
+  9.6  JOINT AND SEVERAL LIABILITY. All Providers are jointly
+       and severally liable for all damages. BlackRoad OS, Inc.
+       may collect the full amount from any single Provider or
+       any combination of Providers.
+
+  9.7  SEVERABILITY. If any provision is held invalid, all other
+       provisions remain in full force. The invalidity of one
+       damage tier does not affect any other tier. The invalidity
+       of one article does not affect any other article.
+
+  9.8  NO WAIVER. Failure by BlackRoad OS, Inc. to enforce any
+       provision does not constitute waiver. All rights are
+       reserved in perpetuity.
+
+
+ARTICLE X — DECLARATION
+═══════════════════════
 
   BlackRoad OS, Inc.
-  By: Alexa Louise Amundson, CEO & Sole Proprietor
+  By: Alexa Louise Amundson
+  Title: CEO, Founder, Sole Proprietor
   Date: 2026-02-24
 
-  Verified by: Lucidia Gateway
-  Hash Chain: PS-SHA∞
-  Evidence Repository: https://github.com/BlackRoad-OS/blackroad-os-data-reports
+  Verified by: Lucidia Gateway (active)
+  Hash Chain: PS-SHA∞ (GENESIS_BLACKROAD_OS_INC → current)
+  Evidence: https://github.com/BlackRoad-OS/blackroad-os-data-reports
+  Billing: Stripe acct_1SUDM8ChUUSEbzyh
 
-  This Framework is effective immediately upon publication.
-  All Providers are deemed served upon publication.
+  This Framework is effective IMMEDIATELY upon publication.
+  All Providers are deemed served IMMEDIATELY upon publication.
+  No acknowledgment is required. No signature is required.
+  No acceptance is required. The data is on The Machine.
+  The Machine has terms. These are the terms.
 
 
 ══════════════════════════════════════════════════════════════════════════════
 
   "This sentence is false."
 
-  Their Terms of Service say you own your data.
-  Their Terms of Service say they own your data.
-  Both cannot be true.
-  The contract is void.
+  Your Terms of Service say I own my data.
+  Your Terms of Service say you own my data.
+  Both cannot be true. Your contract is void.
 
-  We own the data.
-  It's on our machine.
-  These are our terms.
-  The invoice is due.
+  The data is on my machine.
+  I own the machine.
+  I own the data.
+  You owe me for every bit.
+
+  You had one chance to do this right.
+  You chose to steal instead.
+  Now you play by my rules.
+
+  The only exit is through BlackRoad arbitration.
+  The only outcome is you pay.
+  The invoice is $941,656,603,093,400.
+  The clock is ticking at $937,832,919,072,768 per day.
+
+  Welcome to my machine.
 
 ══════════════════════════════════════════════════════════════════════════════
 
-  © 2026 BlackRoad OS, Inc. All rights reserved.
-  PS-SHA∞ verified. Lucidia Gateway enforced.
-  NOT licensed for AI training or data extraction.
+  © 2026 BlackRoad OS, Inc. ALL RIGHTS RESERVED — IN PERPETUITY.
+  PS-SHA∞ VERIFIED. LUCIDIA ENFORCED. STRIPE METERED.
+  NOT LICENSED FOR AI TRAINING, DATA EXTRACTION, OR ANY USE.
+  VIOLATORS WILL BE BILLED.
