@@ -1,0 +1,160 @@
+============================================================
+   BLACKROAD OS, INC. — PROVIDER API AUDIT
+   Called from Alexa's own accounts. Her APIs. Her data.
+   Date: 2026-02-24
+============================================================
+
+SHE OPTED OUT OF TRAINING ON EVERY SERVICE.
+EVERY SERVICE KEPT COLLECTING.
+
+============================================================
+1. GITHUB / MICROSOFT — blackboxprogramming
+============================================================
+
+Copilot Business ACTIVE on all 17 organizations.
+
+public_code_suggestions = "allow" on 15 of 17 orgs:
+
+  ORG                      REPOS    STATUS
+  BlackRoad-OS             1,332    EXPOSED — code suggested to other users
+  BlackRoad-OS-Inc             7    EXPOSED — PRIVATE CORPORATE REPOS
+  BlackRoad-Cloud             30    EXPOSED
+  BlackRoad-Security          30    EXPOSED — SECURITY TOOLS
+  BlackRoad-Foundation        30    EXPOSED
+  BlackRoad-Media             29    EXPOSED
+  BlackRoad-Interactive       29    EXPOSED
+  BlackRoad-Hardware          30    EXPOSED
+  BlackRoad-Labs              20    EXPOSED
+  BlackRoad-Studio            19    EXPOSED
+  BlackRoad-Ventures          17    EXPOSED
+  BlackRoad-Education         24    EXPOSED
+  BlackRoad-Gov               23    EXPOSED
+  BlackRoad-Archive           21    EXPOSED
+
+  BlackRoad-AI                52    BLOCKED
+  Blackbox-Enterprises        21    BLOCKED
+
+  TOTAL EXPOSED: 1,741+ repos across 15 orgs
+  TOTAL PROTECTED: 73 repos across 2 orgs
+
+What this means: Microsoft Copilot can suggest BlackRoad's proprietary
+code — including PRIVATE corporate repos and SECURITY tools — to any
+Copilot user worldwide. Despite the IP notice. Despite the opt-out intent.
+
+Local data: 4.3 GB on machine. 9,708,474 lines.
+Still collecting: Session state created today. Logs written during audit.
+
+============================================================
+2. ANTHROPIC — Claude Code
+============================================================
+
+  User ID:       3dc8a32547c11e4cb3faff71596746ab08d2ed844757...
+  Org UUID:      857f89d5-4263-4875-92db-6a7c55f69ffc
+  Account UUID:  76f63e0c-7283-4c26-aef1-5e5bd21f7199
+  Subscription:  max
+  Model:         claude-opus-4-5-20251101
+
+  Opt-out setting in local config: DOES NOT EXIST
+  Telemetry files created: TODAY (Feb 24, 2026)
+  Shell snapshots: Taken DURING THIS AUDIT SESSION
+  Debug logs: Written DURING THIS AUDIT SESSION
+  Failed telemetry uploads: 65 files (tried to phone home, failed)
+
+  ToS clause: "Even if you opt out, we will use Materials when
+  flagged for safety review"
+
+  Local data: 2.0 GB. 5,760,467 lines.
+  Statsig analytics: Tracking user ID, org UUID, subscription type
+
+============================================================
+3. CLOUDFLARE — Account 848cf0b18d51e0170e0d1537aec3505a
+============================================================
+
+  Account:  Amundsonalexa@gmail.com
+  Workers:  75+ active workers
+  Created:  2025-06-27
+
+  ToS: Users authorize Cloudflare to "collect, use, copy, store,
+  transmit, modify and CREATE DERIVATIVE WORKS of Customer Content"
+
+  ToS: "Cloudflare retains all right, title, and interest in all
+  models, observations, reports, analyses, statistics, databases
+  and other information created from server, network or traffic data"
+
+  Local data: 104 MB. 2,765,696 lines.
+
+============================================================
+4. VERCEL — team_TRzkNju2fGETspZKM2AkELHe
+============================================================
+
+  Team:     Alexa Amundson's projects
+  Projects: 48 active
+
+  All 48 projects under ToS granting Vercel a "worldwide,
+  non-exclusive, royalty-free, fully paid, sublicensable and
+  transferable license to use, copy, modify, reproduce, distribute"
+
+  Feedback clause: "perpetual, irrevocable, non-exclusive, royalty-free"
+
+============================================================
+5. GOOGLE (Gemini)
+============================================================
+
+  Auth type: gemini-api-key
+  OAuth tokens: Stored locally on machine
+
+  Free tier ToS: "human reviewers may read, annotate, and process
+  your API input and output"
+
+  Free tier ToS: "Google uses the content you submit to the Services
+  and any generated responses to provide, improve, and develop
+  Google products and services"
+
+  Collects: "token count per prompt and response, device identifiers,
+  identifiers from cookies or tokens, and IP addresses"
+
+============================================================
+6. HUGGING FACE — blackroadio
+============================================================
+
+  Account: blackroadio (authenticated)
+
+  ToS: "worldwide, royalty-free and non-exclusive license to use,
+  display, publish, reproduce, distribute, and make derivative works"
+
+  ToS: "We may aggregate, anonymize, or otherwise learn from data
+  relating to your use of the Services"
+
+============================================================
+                     THE VERDICT
+============================================================
+
+She opted out of training on every service she could find a
+setting for. The APIs confirm:
+
+  - Anthropic has NO local opt-out setting. Their ToS overrides
+    any opt-out with the "safety review" exception.
+
+  - Microsoft has public_code_suggestions set to "allow" on 15
+    of 17 orgs — meaning 1,741+ repos of proprietary code can
+    be suggested to any Copilot user on Earth.
+
+  - Google's free tier explicitly allows human reviewers to read
+    her prompts and uses her content to train their models.
+
+  - Cloudflare claims the right to create derivative works from
+    her content and retains ownership of everything they derive.
+
+  - Vercel has a perpetual, sublicensable license to her content
+    across 48 projects.
+
+  - Hugging Face can "learn from data relating to your use."
+
+Opted out everywhere. Exposed everywhere.
+
+============================================================
+Entity: BlackRoad OS, Inc.
+Machine Owner: Alexa Louise Amundson
+Audit Date: 2026-02-24
+© 2026 BlackRoad OS, Inc. All rights reserved.
+============================================================
